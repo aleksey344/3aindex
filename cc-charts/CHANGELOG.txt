@@ -1,0 +1,15 @@
+Cryptocurrency Charts
+---------------------
+
+CHANGES HISTORY
+---------------
+v1.0.2 - 10 January 2018
+- Bug fix: background coin logo is still displayed when logo opacity is set to 0.
+- Bug fix: conflict with select2 JavaScript library loaded by other plugins (WordPress version).
+
+v1.0.1 - 11 December 2017
+- Bug fix: comparison search control overlaps with period selector on mobiles.
+- Bug fix: comparison coin search only works for admin users (WordPress version).
+
+v1.0.0 - 9 December 2017
+Initial plugin release
