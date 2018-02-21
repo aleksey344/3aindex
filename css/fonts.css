@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'TW';
+  src: url('../fonts/TwCenMT-Condensed.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/TwCenMT-Condensed.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/TwCenMT-Condensed.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/TwCenMT-Condensed.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/TwCenMT-Condensed.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/TwCenMT-Condensed.svg#svgFontName') format('svg'); /* Legacy iOS */
+}

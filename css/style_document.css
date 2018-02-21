@@ -1,0 +1,30 @@
+header{
+	position: static;
+	margin: auto;
+	height: 103px;
+	background: #fff;
+	z-index: 9999;
+}
+#documents{
+	padding-top: 110px;
+	height: 625px;
+	background: url("../img/document.jpg") center center/cover;
+}
+.d_header{
+	color: #fff;
+}
+.d_active{
+	border-bottom: 5px solid #f3b411;
+    padding-bottom: 10px;
+}
+.d_table{
+	background: rgba(218, 218, 218, .8);
+	border-radius: 8px;
+}
+
+.d_table i{
+	color: #187702;
+}
+#nb{
+	border: none !important;
+}
